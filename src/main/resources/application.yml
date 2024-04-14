@@ -1,0 +1,12 @@
+server:
+    port: 8081
+
+opensearch:
+  uris: https://127.0.0.1:9200
+  username: admin
+  password: CBsZ6#9kHxb
+
+spring:
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true
